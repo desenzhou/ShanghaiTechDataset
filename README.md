@@ -5,3 +5,5 @@ Dataset proposed in CVPR 2016 paper [Single Image Crowd Counting via Multi Colum
 Dropbox:   https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0
 
 Baidu Cloud Disk(updated in 2024): https://pan.baidu.com/s/1xJnhmJbwPdnNKBM1K6F1Cg?pwd=iga3 
+
+Contact zhoudesen2013@@163.com if you failed to download.
