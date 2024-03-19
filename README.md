@@ -4,4 +4,6 @@ Dataset appeared in CVPR 2016 paper [Single Image Crowd Counting via Multi Colum
 # Download link
 Dropbox:   https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0
 
-Baidu Disk: http://pan.baidu.com/s/1nuAYslz
+Baidu Disk(updated in 2024): 
+链接：https://pan.baidu.com/s/1xJnhmJbwPdnNKBM1K6F1Cg?pwd=iga3 
+提取码：iga3
